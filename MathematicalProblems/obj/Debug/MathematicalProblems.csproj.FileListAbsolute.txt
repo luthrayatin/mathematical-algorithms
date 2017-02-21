@@ -1,0 +1,8 @@
+c:\users\yatin\documents\visual studio 2015\Projects\MathematicalProblems\MathematicalProblems\bin\Debug\MathematicalProblems.exe.config
+c:\users\yatin\documents\visual studio 2015\Projects\MathematicalProblems\MathematicalProblems\bin\Debug\MathematicalProblems.exe
+c:\users\yatin\documents\visual studio 2015\Projects\MathematicalProblems\MathematicalProblems\bin\Debug\MathematicalProblems.pdb
+c:\users\yatin\documents\visual studio 2015\Projects\MathematicalProblems\MathematicalProblems\bin\Debug\Autofac.dll
+c:\users\yatin\documents\visual studio 2015\Projects\MathematicalProblems\MathematicalProblems\bin\Debug\Autofac.xml
+c:\users\yatin\documents\visual studio 2015\Projects\MathematicalProblems\MathematicalProblems\obj\Debug\MathematicalProblems.csprojResolveAssemblyReference.cache
+c:\users\yatin\documents\visual studio 2015\Projects\MathematicalProblems\MathematicalProblems\obj\Debug\MathematicalProblems.exe
+c:\users\yatin\documents\visual studio 2015\Projects\MathematicalProblems\MathematicalProblems\obj\Debug\MathematicalProblems.pdb
