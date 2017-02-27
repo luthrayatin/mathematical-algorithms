@@ -12,7 +12,6 @@ namespace MathematicalProblems
         private static IContainer Container { get; set; }
         static void Main(string[] args)
         {
-            var builder = new ContainerBuilder();
         }
     }
 }
